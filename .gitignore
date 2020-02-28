@@ -13,6 +13,11 @@ bin-release/
 *.ipa
 *.apk
 
+# OpenWeatherMap API Key
+weather_api_key = "YOUR KEY HERE!"
+
+# Google API Key
+g_key = "YOUR KEY HERE!"
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
